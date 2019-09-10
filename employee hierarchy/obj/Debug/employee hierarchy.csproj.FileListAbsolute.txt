@@ -1,0 +1,5 @@
+c:\users\njogu\documents\visual studio 2015\Projects\employee hierarchy\employee hierarchy\obj\Debug\employee hierarchy.csprojResolveAssemblyReference.cache
+c:\users\njogu\documents\visual studio 2015\Projects\employee hierarchy\employee hierarchy\bin\Debug\employee hierarchy.dll
+c:\users\njogu\documents\visual studio 2015\Projects\employee hierarchy\employee hierarchy\bin\Debug\employee hierarchy.pdb
+c:\users\njogu\documents\visual studio 2015\Projects\employee hierarchy\employee hierarchy\obj\Debug\employee hierarchy.dll
+c:\users\njogu\documents\visual studio 2015\Projects\employee hierarchy\employee hierarchy\obj\Debug\employee hierarchy.pdb
